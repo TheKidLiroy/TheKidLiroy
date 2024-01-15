@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java and SQL Injection**
 
 
-- 📫 connect with me via <a href="https://discord.gg/KPC9dya9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlad__kovalev" height="30" width="40" /></a>
+- 📫 connect with me via <a href="https://discord.gg/KPC9dya9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="vlad__kovalev" height="30" width="40" /></a>
 
 <br/>
 
@@ -43,4 +43,4 @@
 
 <br/>
 
-![Aviram's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKidLiroy&theme=dark&show_icons=true)
+![Liroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKidLiroy&theme=dark&show_icons=true)
