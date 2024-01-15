@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java and SQL Injection**
 
 
-- 📫 connect with me via <a href="https://discord.gg/KPC9dya9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="vlad__kovalev" height="30" width="40" /></a>
+- 📫 connect with me via <a href="https://discord.gg/KPC9dya9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="vlad__kovalev" height="40px" width="40px" /></a>
 
 <br/>
 
