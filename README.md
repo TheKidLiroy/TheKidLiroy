@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liroy</h1>
 <h3 align="center">A computer science student and a pentester 👨‍💻</h3>
 
-- 🔭 I’m currently working on **UDP&TCP Flooding protocols**
+- 🔭 I’m currently working on **UDP&TCP Flooding protocols, Firewall penetration**
 
 - 🌱 I’m currently learning **Java and SQL Injection**
 
